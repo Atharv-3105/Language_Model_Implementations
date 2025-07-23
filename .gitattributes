@@ -1,0 +1,12 @@
+Qwen-3-0.6B/paper.pdf filter=lfs diff=lfs merge=lfs -text
+Qwen-3-0.6B/standalone-qwen3.ipynb filter=lfs diff=lfs merge=lfs -text
+Small-LM/wandb.zip filter=lfs diff=lfs merge=lfs -text
+Qwen-3-0.6B/Qwen3-0.6B filter=lfs diff=lfs merge=lfs -text
+Qwen-3-0.6B/model.ipynb filter=lfs diff=lfs merge=lfs -text
+Qwen-3-0.6B/requirements.txt filter=lfs diff=lfs merge=lfs -text
+Small-LM/model.ipynb filter=lfs diff=lfs merge=lfs -text
+Small-LM/saves filter=lfs diff=lfs merge=lfs -text
+Small-LM/small-lm_trained.ipynb filter=lfs diff=lfs merge=lfs -text
+Qwen3-0.6B filter=lfs diff=lfs merge=lfs -text
+Small-LM/saves/** filter=lfs diff=lfs merge=lfs -text
+Qwen-3-0.6B/model.safetensors filter=lfs diff=lfs merge=lfs -text
